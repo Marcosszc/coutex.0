@@ -1,0 +1,6 @@
+{
+  "name": "COUTEX",
+  "description": "Página web informativa sobre COUTEX: Inteligencia Artificial para Sistemas Autónoma diseñada para evolucionar junto a su usuario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
